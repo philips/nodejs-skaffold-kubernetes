@@ -8,7 +8,6 @@ Quick presentation of a node.js workflow with Kubernetes.
 
 - [minikube](https://github.com/kubernetes/minikube#what-is-minikube)
 - [skaffold](https://github.com/GoogleContainerTools/skaffold#installation)
-- docker client (e.g. `brew install docker`)
 
 ## Simple Example
 
