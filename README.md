@@ -18,13 +18,6 @@ Download the repo
 git clone https://github.com/philips/skaffold-nodejs-example
 ```
 
-Manually build the container 
-
-```
-eval $(minikube docker-env)
-docker build .
-```
-
 Start the workflow
 
 ```
